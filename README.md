@@ -7,16 +7,6 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
 -->
 
-<!-- КОСМИЧЕСКАЯ ШАПКА от galaxy-profile -->
-<p align="center">
-  <img src="assets/generated/galaxy-header.svg" alt="RedRaceTeam Galaxy" />
-</p>
-
-<!-- ТЕЛЕМЕТРИЯ -->
-<p align="center">
-  <img src="assets/generated/mission-telemetry.svg" alt="Миссия RedRaceTeam" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=DA291C&center=true&vCenter=true&width=600&lines=RedRaceTeam+%7C+P4%2F9;Open-Source+%26+Motorsport;Python+%26+Java+%26+C%2B%2B" alt="Typing SVG" />
 </h1>
@@ -28,8 +18,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedRaceTeam&label=Просмотры&color=DA291C&style=flat-square" alt="Просмотры" />
-  <a href="https://t.me/RedRaceTeam"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:redraceteam@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/P4Devl"><img src="https://img.shields.io/badge/Telegram-P4Devl-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
@@ -42,24 +31,28 @@
 * **🏁 Автоспорт**: Обожаю **Formula 1** и **IndyCar**
 * **💻 Мой стек**: Python, Java, HTML, C++
 
-<details>
-<summary><b>📖 Подробнее</b></summary>
-
-* **🎯 Сейчас**: Работаю над open-source инструментами для разработчиков
-* **🌍 Языки**: Русский, English (intermediate)
-* **☕ Факт**: Без кофе не пишу код
-</details>
-
 ---
 
 ## 🛠 Технологии
 
 <p align="center">
-  <img src="assets/generated/language-telemetry.svg" alt="Языки RedRaceTeam" />
+  <img src="https://skillicons.dev/icons?i=py,java,html,cpp" />
+</p>
+
+---
+
+## 📱 Telegram-канал P4Devl
+
+<p align="center">
+  <a href="https://t.me/P4Devl">
+    <img src="https://api.iconify.design/la/telegram.svg" width="50" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="assets/generated/focus-sectors.svg" alt="Фокус-сектора RedRaceTeam" />
+  <a href="https://t.me/P4Devl">
+    <img src="https://img.shields.io/badge/Подписаться_на_P4Devl-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -71,9 +64,9 @@
   <img src="https://coolreadme.xyz/api/linear-card?id=P4-001&title=Open-Source+P4+Tool&status=in-progress&priority=high" alt="Linear Issue" />
 </p>
 
-<!-- Duolingo Streak — покажи дисциплину -->
+<!-- Duolingo Streak — дисциплина -->
 <p align="center">
-  <img src="https://coolreadme.xyz/api/duolingo-card?streak=42&language=Russian&mood=angry" alt="Duolingo Streak" />
+  <img src="https://coolreadme.xyz/api/duolingo-card?streak=42&language=Russian&mood=happy" alt="Duolingo Streak" />
 </p>
 
 <!-- Letterboxd — любимый фильм про гонки -->
@@ -81,25 +74,17 @@
   <img src="https://coolreadme.xyz/api/letterboxd-card?title=Rush&rating=5&liked=true" alt="Letterboxd" />
 </p>
 
-<!-- Now Listening — что играет -->
-<p align="center">
-  <img src="https://coolreadme.xyz/api/now-listening?song=Speed+of+Sound&artist=Coldplay&style=dark" alt="Сейчас играет" />
-</p>
-
 ---
 
 ## 📊 GitHub-статистика
 
 <p align="center">
-  <img src="assets/generated/featured-systems.svg" alt="Избранные проекты RedRaceTeam" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RedRaceTeam&show_icons=true&theme=radical&hide_border=true&title_color=DA291C&icon_color=F2A83B" />
 </p>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RedRaceTeam&show_icons=true&theme=radical&hide_border=true&title_color=DA291C&icon_color=F2A83B" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedRaceTeam&layout=compact&theme=radical&hide_border=true&title_color=DA291C" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedRaceTeam&layout=compact&theme=radical&hide_border=true&title_color=DA291C" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedRaceTeam&theme=radical&hide_border=true&ring=DA291C&fire=F2A83B" />
